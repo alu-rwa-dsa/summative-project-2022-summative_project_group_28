@@ -2,5 +2,5 @@
 #
 #
 - Python version 3.10.4
-- A file containing our tables named "db"
+- A folder containing our tables named "db"
 - Pandas library
