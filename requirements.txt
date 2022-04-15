@@ -1,0 +1,6 @@
+# In order to run our project you must have the following:
+#
+#
+- Python version 3.10.4
+- A file containing our tables named "db"
+-
