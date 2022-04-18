@@ -20,3 +20,6 @@ To run our project, please follow the following steps:
 Download and install Python version 3.10.4
 Import pandas library
 Clone the whole repository to prevent any errors
+
+in cmd where you cloned your repository run python ticket.py
+Admin Password = root
