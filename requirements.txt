@@ -2,5 +2,7 @@
 #
 #
 - Python version 3.10.4
-- A folder containing our table files named "db"
-- Pandas library
+- A folder containing .csv files named "db"
+- pip installed on your local machine to install pandas library and make sure pip is upgraded to the latest version by using command
+(python -m pip install --upgrade pip)
+- Pandas library (pip install pandas)
