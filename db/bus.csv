@@ -1,0 +1,4 @@
+busno,busname,start,stop,departure,arrival,duration,frequency
+RAD12,KG,Kigali,Gisenyi,9:00,12:00,3,5
+RAE13,KH,Kigali,Huye,10:00,15:00,5,3
+RAF14,KM,kigali,Musanze,11:00,13:00,2,6
