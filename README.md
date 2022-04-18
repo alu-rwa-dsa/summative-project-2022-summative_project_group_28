@@ -10,7 +10,8 @@ As our group, we developed a CLI software that will help people to book tickets 
 Our project is created with:
 
 Python version 3.10.4
-Pandas library
+
+Pandas library  1.4.2
 
 ####SET UP
 
@@ -18,4 +19,4 @@ To run our project, please follow the following steps:
 
 Download and install Python version 3.10.4
 Import pandas library
-Import our project file in your workspace and run it
+Clone the whole repository to prevent any errors
