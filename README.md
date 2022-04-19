@@ -13,9 +13,7 @@ As our group, we developed a CLI software that will help people to book tickets 
 Our project is created with:
 
 Python version 3.10.4
-
 Pandas library  1.4.2
-
 ####SET UP
 
 To run our project, please follow the following steps:
@@ -28,4 +26,4 @@ Clone the whole repository to prevent any errors
 
 in cmd where you cloned your repository run "python ticket.py"
 
-Admin Password = root
+Admin Password=root
