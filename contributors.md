@@ -13,5 +13,4 @@ and also worked on read_buses, schedule, and new_bus functions for our system.
 Nelsa Ishimwe contributed to the implementation of this project by designing the DB files, README file, requirements file, license file,
 and also worked on the sort_buses, RAD12_fare and RAE13_fare functions for our system.
 
-Maryse Umutoni Kanamugire contributed to the implementation of this project by coding the new_passenger, ticketreservation, cancel_bus, 
-and updateRAE13 functions for our system.
+Maryse Umutoni Kanamugire contributed to the implementation of this project by coding the new_passenger, ticketreservation, cancel_bus functions for our system.
